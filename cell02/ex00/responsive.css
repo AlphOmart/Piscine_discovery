@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+p {
+    text-align: center;
+    color: white;
+    font-size:3vw;
+}
+table {
+    width: 100%;
+    height: 20%;
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+td{
+    height:50%;
+}
+.case1 {
+    background-color: blue;
+}
+.case2{
+    background-color: red;
+}
